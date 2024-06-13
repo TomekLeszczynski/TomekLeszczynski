@@ -22,7 +22,12 @@ Vitest,
 Tailwind CSS,
 TypeScript,
 Firebase,
-Rest API.
+Rest API,
+Chart.js,
+Spline,
+Bootstrap,
+Sass,
+
 
 X SKILLS:
 Creating responsive design,
@@ -30,19 +35,19 @@ Unit Testing,
 Building accessible sites,
 
 X STRENGHTS:
-Planning and effective work,
 Team player,
 Identifying needs and creating effective solutions,
-Creativity & Flexibility.
+Creativity & Flexibility,
+Analytical  thinking.
 
 X CURRENTLY LEARNING:
 Unit & Component Testing
 
 X FUTURE PATH:
-E2E Testing
 GRAPH QL
 NUXT
 LARAVEL
+E2E Testing
 
 @KONTAKT.LESZCZYNSKI@GMAIL.COM
 

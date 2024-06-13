@@ -47,9 +47,9 @@ X FUTURE PATH:
 GRAPH QL
 NUXT
 LARAVEL
-E2E Testing
+E2E Testing  
 
-@KONTAKT.LESZCZYNSKI@GMAIL.COM
+Check my latest project: SHADOW BOXING APP
 
 ```
 

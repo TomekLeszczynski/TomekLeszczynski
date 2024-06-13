@@ -1,5 +1,5 @@
 ```
-TOMEK LESZCZYŃSKI / JUNIOR VUE.JS DEVELOPER
+TOMASZ LESZCZYŃSKI / JUNIOR VUE.JS DEVELOPER
  
 X PROFILE
 I have extensive experience as an architect and 3D graphic designer,

@@ -2,6 +2,7 @@
 TOMASZ LESZCZYŃSKI / JUNIOR VUE.JS DEVELOPER
  
 X PROFILE
+
 I have extensive experience as an architect and 3D graphic designer,
 having worked on numerous projects, including international ones,
 in design, marketing, sales, and communication.
@@ -13,6 +14,7 @@ Eager to contribute and grow, I am looking forward to applying my unique perspec
 to front-end development.
 
 X STACK:
+
 JavaScript,
 Vue.js,
 Pinia,
@@ -30,20 +32,24 @@ Sass,
 
 
 X SKILLS:
+
 Creating responsive design,
 Unit Testing,
 Building accessible sites,
 
 X STRENGHTS:
+
 Team player,
 Identifying needs and creating effective solutions,
 Creativity & Flexibility,
 Analytical  thinking.
 
 X CURRENTLY LEARNING:
+
 Unit & Component Testing
 
 X FUTURE PATH:
+
 GRAPH QL
 NUXT
 LARAVEL

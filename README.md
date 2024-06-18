@@ -56,7 +56,6 @@ LARAVEL
 E2E Testing  
 
 Check my latest project: SHADOW BOXING APP
-https://shadow-boxing.onrender.com/
 
 ```
 

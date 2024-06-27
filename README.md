@@ -29,6 +29,7 @@ Chart.js,
 Spline,
 Bootstrap,
 Sass,
+Figma
 
 
 X SKILLS:
